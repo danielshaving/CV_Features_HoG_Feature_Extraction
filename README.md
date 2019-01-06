@@ -29,7 +29,7 @@ The gradient image removed a lot of non-essential information ( e.g. constant co
 At every pixel, the gradient has a magnitude and a direction. For color images, the gradients of the three channels are evaluated ( as shown in the figure above ). The magnitude of gradient at a pixel is the maximum of the magnitude of gradients of the three channels, and the angle is the angle corresponding to the maximum gradient.
 
 
-![Pic](images/Extraction1.png)
+![Pic](images/Extraction1.jpg)
 
 ## Calculate Histogram of gradients in 8 * 8
 
